@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  background-image: url("images/Weather-Api.jpg");
+}
+
+li,h1,p{
+  color: white;
+  font-size: 2em;
+  font-style: normal;
+  font-family:"Times New Roman";
+
+}
+
+ul{
+  list-style-type: none;
+
+}
+
+li{
+  border-radius: 5px;
+  border: 1px solid black;
+}
